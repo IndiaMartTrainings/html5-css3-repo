@@ -186,13 +186,13 @@ Label - This is used when we have form or input elements
 div - is Always used as a container for other elements
     - defines divison or section in HTML document
     - any sort of content can be put inside <div> tag
-    - this is know an DIVISON tag
+    - this is known an DIVISON tag
 
 HTML DOM ( Document Object Model)
 ---------------------------------
 When a page is loaded broswer creates a document object model of the page
 
-Usage : with HTMl DOM javascript can access all the elements of an HTML document, it gets all the power it needs.
+Usage : with HTML DOM javascript can access all the elements of an HTML document, it gets all the power it needs.
 
        Javascript can add, remove, change all the HTML elements, HTMl attributes, css, styles in the page
 
